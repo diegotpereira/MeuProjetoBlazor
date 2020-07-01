@@ -13,14 +13,14 @@
     "TagHelpers": [
       {
         "Kind": "Components.Component",
-        "Name": "MeuProjetoBlazor.App",
+        "Name": "MeuProjetoBlazor.Pages.Index",
         "AssemblyName": "MeuProjetoBlazor",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App",
+            "TagName": "Index",
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -32,19 +32,19 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MeuProjetoBlazor.App"
+          "Common.TypeName": "MeuProjetoBlazor.Pages.Index"
         }
       },
       {
         "Kind": "Components.Component",
-        "Name": "MeuProjetoBlazor.App",
+        "Name": "MeuProjetoBlazor.Pages.Index",
         "AssemblyName": "MeuProjetoBlazor",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MeuProjetoBlazor.App",
+            "TagName": "MeuProjetoBlazor.Pages.Index",
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -56,7 +56,7 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MeuProjetoBlazor.App",
+          "Common.TypeName": "MeuProjetoBlazor.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -209,14 +209,14 @@
       },
       {
         "Kind": "Components.Component",
-        "Name": "MeuProjetoBlazor.Pages.Index",
+        "Name": "MeuProjetoBlazor.App",
         "AssemblyName": "MeuProjetoBlazor",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index",
+            "TagName": "App",
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -228,19 +228,19 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MeuProjetoBlazor.Pages.Index"
+          "Common.TypeName": "MeuProjetoBlazor.App"
         }
       },
       {
         "Kind": "Components.Component",
-        "Name": "MeuProjetoBlazor.Pages.Index",
+        "Name": "MeuProjetoBlazor.App",
         "AssemblyName": "MeuProjetoBlazor",
         "Documentation": null,
         "TagOutputHint": null,
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MeuProjetoBlazor.Pages.Index",
+            "TagName": "MeuProjetoBlazor.App",
             "ParentTag": null,
             "TagStructure": 0,
             "Attributes": [],
@@ -252,7 +252,7 @@
         "Diagnostics": [],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MeuProjetoBlazor.Pages.Index",
+          "Common.TypeName": "MeuProjetoBlazor.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
